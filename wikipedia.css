@@ -1,0 +1,13 @@
+a {
+    color: cyan;
+}
+
+blockquote, .quotebox, #toc, .thumbinner {
+    background-color: transparent;
+}
+
+body, table, tr, td, h1, h2, h3, h4, h5, h6, #content, #mw-content-text, #mw-head span, #mw-navigation div, #catlinks {
+    background-color: #333333;
+    color: white;
+}
+

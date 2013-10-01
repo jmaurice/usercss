@@ -1,0 +1,75 @@
+.highlight .c, .highlight .cm, .highlight .c1 {
+    color: #999992;
+}
+
+.highlight .err {
+    background-color: #1c2d2d;
+    color: #59e8e8;
+}
+
+.highlight .gr, .highlight .gt {
+    color: #55ffff;
+}
+
+.highlight .gu, .highlight .ni {
+    color: #7fff7f;
+}
+
+.highlight .kt, .highlight .nc {
+    color: #bbaa77;
+}
+
+.highlight .m, .highlight .mf, .highlight .mh, .highlight .mi, .highlight .mo, .highlight .il {
+    color: #ff6666;
+}
+
+.highlight .na, .highlight .no, .highlight .nv, .highlight .vg, .highlight .vi, .highlight .vc {
+    color: #ff7f7f;
+}
+
+.highlight .nb {
+    color: #ff794c;
+}
+
+.highlight .ne, .highlight .nf {
+    color: #66ffff;
+}
+
+.highlight .nt {
+    color: #ffff7f;
+}
+
+.highlight .s, .highlight .sb, .highlight .sc, .highlight .sd, .highlight .s2, .highlight .se, .highlight .sh, .highlight .si, .highlight .si, .highlight .sx, .highlight .s1 {
+    color: #2ebfff;
+}
+
+.highlight .sr {
+    color: #ff66d9;
+}
+
+.highlight .w {
+    color: #444444;
+}
+
+.highlight .n {
+    color: #cecece;
+}
+
+.message, .message * {
+    background-color: #111122   ;
+}
+
+a {
+    color: cyan;
+}
+
+body, a, button, blockquote, h1, h2, h3, h4, h5, h6, ul, ol, il, li, table, th, tr, td, p, strong, pre, .announce, .name, .num, .bubble, .commit, .container, .divider-vertical, .authorship, .octofication, .commit-meta, .box, .box-header, .box-small, .box-title, .box-body, .col, .grid, .filter-bar, .js-notice, .news, .flash, .dashboard, .dashboard-sidebar, .header, .highlight, .message, .repo-nav-contents, .tab-content, .contributions-tab, .last, .site, .pagehead, .participation, .meta, .line, .plain {
+    background-attachment: scroll;
+    background-color: black;
+    background-image: none;
+    background-position: top left;
+    background-repeat: repeat;
+    color: white;
+    text-shadow: none;
+}
+

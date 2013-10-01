@@ -1,0 +1,9 @@
+a {
+    color: cyan;
+}
+
+body, a, button, blockquote, h1, h2, h3, h4, h5, h6, ul, ol, il, li, table, th, tr, td, p, strong, div, span {
+    background-color: #222222;
+    color: white;
+}
+
